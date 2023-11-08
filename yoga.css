@@ -1,0 +1,157 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+body {
+  background-color: lightgray;
+}
+.first {
+  background-color: #eee;
+  padding: 1.5%;
+  text-align: center;
+  position: sticky;
+  top: 0px;
+}
+.first > a {
+  text-decoration: none;
+  color: black;
+  margin-right: 3%;
+}
+.third {
+  margin-left: 4%;
+}
+.second {
+  margin-left: 4%;
+}
+.yoga {
+  background-image: url("https://img.freepik.com/premium-photo/beautiful-yogi-woman-meditating-while-sitting-mat-park_175682-41118.jpg?size=626&ext=jpg&ga=GA1.1.1444119140.1671213698&semt=ais");
+  background-size: cover;
+  height: 100vh;
+}
+.yoga > p {
+  color: #175014;
+  text-align: center;
+  font-weight: bold;
+  font-size: 2em;
+}
+.cannot {
+  padding-top: 20px;
+}
+.btn {
+  color: white;
+  background-color: blue;
+  border: none;
+  margin-left: 43%;
+  margin-top: 2%;
+  padding: 1% 4%;
+  border-radius: 8px;
+}
+.btn:hover {
+  color: black;
+  background-color: yellow;
+}
+body {
+  background-color: #eee;
+}
+.control {
+  background-image: url("https://img.freepik.com/free-photo/yoga-woman-young-woman-doing-yoga-morning_654080-1040.jpg?size=626&ext=jpg&ga=GA1.1.1444119140.1671213698&semt=ais");
+  background-size: cover;
+  height: 120vh;
+  margin: 60px;
+  border-radius: 10px;
+  padding-top: 40%;
+}
+.control > p {
+  text-align: center;
+  color: whitesmoke;
+  font-weight: bolder;
+}
+.line section {
+  display: flex;
+  margin-left: 15%;
+  margin-bottom: 2%;
+}
+.line section img {
+  border-radius: 10px;
+}
+.line section p {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+button {
+  color: white;
+  background-color: #00c8ff;
+  border: none;
+  border-radius: 8px;
+  padding: 1% 4%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+button:hover {
+  color: black;
+  background-color: yellow;
+}
+.line {
+  margin-bottom: 5%;
+}
+.perfect {
+  background-image: url("https://img.freepik.com/free-photo/woman-doing-yoga-roof-skyscraper-big-city_1153-4504.jpg?size=626&ext=jpg&ga=GA1.1.1444119140.1671213698&semt=ais");
+  background-size: cover;
+  height: 60vh;
+  margin-bottom: 5%;
+  opacity: 0.9;
+}
+.perfect p {
+  width: 500px;
+  margin-left: 200px;
+}
+.perfect h1 {
+  margin-left: 200px;
+  padding-top: 8%;
+}
+.nice {
+  border-radius: 10px;
+  margin-left: 7%;
+  margin-bottom: 8%;
+}
+.last {
+  display: flex;
+  text-align: center;
+  margin-bottom: 10%;
+}
+.last img {
+  border-radius: 8px;
+}
+.b2 {
+  color: white;
+  background-color: #00c8ff;
+  border: none;
+  border-radius: 10px;
+  padding: 2% 5%;
+}
+.entire {
+  background-image: url("https://shorturl.at/avzBG");
+  height: 50vh;
+  background-size: cover;
+  padding-top: 5%;
+}
+.b3 {
+  color: white;
+  background-color: #00c8ff;
+  border: none;
+  border-radius: 10px;
+}
+.b3:hover {
+  color: black;
+  background-color: yellow;
+}
+.super {
+  padding-top: 5%;
+  text-align: center;
+  background-color: lightgray;
+  margin-left: 10%;
+  margin-right: 10%;
+  border: 1px solid blue;
+  border-radius: 8px;
+}
